@@ -18,14 +18,17 @@ I write short, practical notes about product work, frontend craft, and shipping 
 
 - 🛰️ **[goscan](https://github.com/nktkt/goscan)** - Go network scanner with nmap-compatible CLI and interactive TUI dashboard
 - 🤖 **[skynet-cli-go](https://github.com/nktkt/skynet-cli-go)** - Go-based Skynet CLI with game theory planner
-- 📝 **[codex-history-cli](https://github.com/nktkt/codex-history-cli)** - CLI tool to record Codex conversation history from local session logs
+- 📝 **[codex-history-cli](https://github.com/nktkt/codex-history-cli)** - Go CLI to record Codex conversation history from local session logs
 - 🧅 **[tor-app](https://github.com/nktkt/tor-app)** - Tor `.onion` static HTML server CLI in Go
+- 🔮 **[Oracle](https://github.com/nktkt/Oracle)** - Go time-series forecasting app using lightweight neural-network regression
+- 🐍 **[venom](https://github.com/nktkt/venom)** - Go-based security framework for penetration testing, CTF, and security research
+- 🧮 **[kinematicsphys](https://github.com/nktkt/kinematicsphys)** - CLI tool for uniformly accelerated motion (SUVAT) equations in Go
 - 🗳️ **[private-voting-dapp](https://github.com/nktkt/private-voting-dapp)** - Privacy-preserving voting dApp (Scaffold-Stark 2 + Cairo + Next.js)
 - 🔐 **[age-zk-proof-studio](https://github.com/nktkt/age-zk-proof-studio)** - Zero-knowledge experiments in Rust
 - 🌌 **[blackhole-raytracer](https://github.com/nktkt/blackhole-raytracer)** - Numerical Schwarzschild black hole raytracer with RK4 null geodesics
 - 📊 **[japan-fiscal-model](https://github.com/nktkt/japan-fiscal-model)** - Japan fiscal model (FY2015-FY2029)
 
-## GitHub Activity
+## GitHub Activity（Public）
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
 
