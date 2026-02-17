@@ -12,7 +12,7 @@
 
 > Build quietly, ship often.
 
-I write short, practical notes about product work, frontend craft, and shipping software.
+I write short, practical notes about product work, frontend craft, and shipping software.<br />
 Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Place](https://nktkt.com/blog/cyber-contest-2026/)
 
 ## Current Projects
