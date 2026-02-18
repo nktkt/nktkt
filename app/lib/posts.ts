@@ -10,6 +10,25 @@ export type Post = {
 
 const posts: Post[] = [
   {
+    slug: "github-daily-2026-02-18-series-3",
+    title: "GitHub Daily Series #3: Rust Automaton Sprint on February 18",
+    summary:
+      "As of 2026-02-18 21:50 JST: 4 active repositories, 10 commits, and a heavy Rust-focused build sprint.",
+    publishedAt: "2026-02-18",
+    readTimeMinutes: 6,
+    tags: ["github", "daily-log", "series", "rust"],
+    content: [
+      "This is episode 3 of the GitHub daily series, covering work on February 18, 2026 (JST), with data captured at 21:50 JST.",
+      "Today snapshot so far: 4 repositories updated, 10 commits, +54380 / -4 lines changed, with no new issues, pull requests, or review events.",
+      "malinin focused on a full Conway Automaton rewrite from TypeScript to Rust, followed by a README pass. Repo: https://github.com/nktkt/malinin",
+      "zagitova progressed as a Rust-based Conway Automaton runtime with an initial implementation and two README updates in the same session. Repo: https://github.com/nktkt/zagitova",
+      "wednesday was started as another Rust Conway Automaton line with an initial commit and README setup, creating a parallel experimental branch for the same problem space. Repo: https://github.com/nktkt/wednesday",
+      "nktkt (profile repository) received three maintenance commits to reorder current projects, add the latest note link, and reflect newly created automaton projects. Repo: https://github.com/nktkt/nktkt",
+      "Representative commit flow today: rewrite first, document immediately, then normalize public-facing project navigation.",
+      "The key lesson from this sprint is that repeated re-implementation across multiple repos can be useful when each repo has a distinct runtime or presentation objective.",
+    ],
+  },
+  {
     slug: "github-daily-2026-02-17-series-2",
     title: "GitHub Daily Series #2: Security Tools, Profile Repo, and Refactors",
     summary:
