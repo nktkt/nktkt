@@ -28,6 +28,9 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🔮 **[Oracle](https://github.com/nktkt/Oracle)** - Go time-series forecasting app using lightweight neural-network regression
 - 🐍 **[venom](https://github.com/nktkt/venom)** - Go-based security framework for penetration testing, CTF, and security research
 - 🧮 **[kinematicsphys](https://github.com/nktkt/kinematicsphys)** - CLI tool for uniformly accelerated motion (SUVAT) equations in Go
+- 🧠 **[zagitova](https://github.com/nktkt/zagitova)** - Conway automaton sovereign AI agent runtime rewritten in Rust
+- 🛠️ **[wednesday](https://github.com/nktkt/wednesday)** - Rust Conway automaton runtime with ReAct loop, tools, and heartbeat daemon
+- ⚙️ **[malinin](https://github.com/nktkt/malinin)** - Rust Conway automaton workspace with core runtime and creator CLI
 
 ## GitHub Activity（Public）
 
