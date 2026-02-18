@@ -42,6 +42,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #2: Security Tools, Profile Repo, and Refactors](https://nktkt.com/blog/github-daily-2026-02-17-series-2/)
 - [GitHub Daily Series #1: Four New Repos in One Day](https://nktkt.com/blog/github-daily-2026-02-17-series-1/)
 - [Build Quietly, Ship Often](https://nktkt.com/blog/build-quietly-ship-often/)
 - [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Place](https://nktkt.com/blog/cyber-contest-2026/)
