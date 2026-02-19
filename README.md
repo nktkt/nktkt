@@ -31,6 +31,11 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🧠 **[zagitova](https://github.com/nktkt/zagitova)** - Conway automaton sovereign AI agent runtime rewritten in Rust
 - 🛠️ **[wednesday](https://github.com/nktkt/wednesday)** - Rust Conway automaton runtime with ReAct loop, tools, and heartbeat daemon
 - ⚙️ **[malinin](https://github.com/nktkt/malinin)** - Rust Conway automaton workspace with core runtime and creator CLI
+- 🧱 **[nanochat_asm](https://github.com/nktkt/nanochat_asm)** - Complete rewrite of karpathy/nanochat in AArch64 assembly for macOS Apple Silicon
+- 🦀 **[nanochat-rs](https://github.com/nktkt/nanochat-rs)** - Rust port of karpathy/nanochat for LLM training and inference on candle
+- ☀️ **[solana-token-manager](https://github.com/nktkt/solana-token-manager)** - Solana SPL token manager dApp built with Anchor and React/Vite
+- 🪙 **[erc20-cli](https://github.com/nktkt/erc20-cli)** - Security-hardened ERC20 token CLI built in Rust with Alloy
+- 🌐 **[erc20-dapp](https://github.com/nktkt/erc20-dapp)** - TypeScript ERC20 token dApp
 
 ## GitHub Activity（Public）
 
@@ -45,6 +50,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #3: Rust Automaton Sprint on February 18](https://nktkt.com/blog/github-daily-2026-02-18-series-3/)
 - [GitHub Daily Series #2: Security Tools, Profile Repo, and Refactors](https://nktkt.com/blog/github-daily-2026-02-17-series-2/)
 - [GitHub Daily Series #1: Four New Repos in One Day](https://nktkt.com/blog/github-daily-2026-02-17-series-1/)
 - [Build Quietly, Ship Often](https://nktkt.com/blog/build-quietly-ship-often/)
