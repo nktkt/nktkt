@@ -10,6 +10,26 @@ export type Post = {
 
 const posts: Post[] = [
   {
+    slug: "github-daily-2026-02-19-series-4",
+    title: "GitHub Daily Series #4: Web3 and LLM Build Sprint on February 19",
+    summary:
+      "As of 2026-02-19 22:54 JST: 6 active repositories, 9 commits, and rapid delivery across Web3 and LLM tooling.",
+    publishedAt: "2026-02-19",
+    readTimeMinutes: 6,
+    tags: ["github", "daily-log", "series", "web3", "llm", "rust"],
+    content: [
+      "This is episode 4 of the GitHub daily series, covering work on February 19, 2026 (JST), with data captured at 22:54 JST.",
+      "Today snapshot so far: 6 repositories updated, 9 commits, +86126 / -66 lines changed, with no new issues, pull requests, or review events.",
+      "erc20-dapp advanced through three commits: initial DApp setup, README documentation, and a security hardening pass with Ownable2Step, supply cap, and input validation. Repo: https://github.com/nktkt/erc20-dapp",
+      "erc20-cli was added as a security-focused Rust CLI for ERC-20 workflows. Repo: https://github.com/nktkt/erc20-cli",
+      "solana-token-manager was launched and then documented in English, moving from initial release to practical onboarding in one short iteration. Repo: https://github.com/nktkt/solana-token-manager",
+      "Two LLM repos were created in parallel: nanochat-rs (Rust port) and nanochat_asm (AArch64 assembly rewrite). Together they contributed more than 37k added lines in the same day. Repos: https://github.com/nktkt/nanochat-rs https://github.com/nktkt/nanochat_asm",
+      "nktkt (profile repository) was updated to reflect the latest projects and notes so public navigation stayed synchronized with actual output. Repo: https://github.com/nktkt/nktkt",
+      "Repository links: https://github.com/nktkt/erc20-dapp https://github.com/nktkt/erc20-cli https://github.com/nktkt/solana-token-manager https://github.com/nktkt/nanochat-rs https://github.com/nktkt/nanochat_asm https://github.com/nktkt/nktkt",
+      "The key lesson from this sprint is to ship end-to-end slices quickly: implementation, security pass, and documentation in the same execution window.",
+    ],
+  },
+  {
     slug: "github-daily-2026-02-18-series-3",
     title: "GitHub Daily Series #3: Rust Automaton Sprint on February 18",
     summary:
@@ -24,7 +44,7 @@ const posts: Post[] = [
       "zagitova progressed as a Rust-based Conway Automaton runtime with an initial implementation and two README updates in the same session. Repo: https://github.com/nktkt/zagitova",
       "wednesday was started as another Rust Conway Automaton line with an initial commit and README setup, creating a parallel experimental branch for the same problem space. Repo: https://github.com/nktkt/wednesday",
       "nktkt (profile repository) received three maintenance commits to reorder current projects, add the latest note link, and reflect newly created automaton projects. Repo: https://github.com/nktkt/nktkt",
-      "Representative commit flow today: rewrite first, document immediately, then normalize public-facing project navigation.",
+      "Repository links: https://github.com/nktkt/malinin https://github.com/nktkt/zagitova https://github.com/nktkt/wednesday https://github.com/nktkt/nktkt",
       "The key lesson from this sprint is that repeated re-implementation across multiple repos can be useful when each repo has a distinct runtime or presentation objective.",
     ],
   },
