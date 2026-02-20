@@ -10,6 +10,25 @@ export type Post = {
 
 const posts: Post[] = [
   {
+    slug: "github-daily-2026-02-20-series-5",
+    title: "GitHub Daily Series #5: Sovereign AI and Resilience Sprint on February 20",
+    summary:
+      "As of 2026-02-20 23:55 JST: 4 active repositories, 5 commits, and 22,899 added lines across new AI and resilience tooling.",
+    publishedAt: "2026-02-20",
+    readTimeMinutes: 6,
+    tags: ["github", "daily-log", "series", "ai", "security", "ops"],
+    content: [
+      "This is episode 5 of the GitHub daily series, covering work on February 20, 2026 (JST), with data captured at 23:55 JST.",
+      "Today snapshot so far: 4 repositories updated, 5 commits, +22899 / -186 lines changed, with no new issues, pull requests, or review events.",
+      "privatova was launched as a sovereign private AI agent project with an initial commit defining the baseline architecture and scope. Repo: https://github.com/nktkt/privatova",
+      "epicshelter started with a v2.1.0 foundation for distributed global backup and disaster recovery, then followed with a critical bug-fix and production test-suite pass in the same day. Repo: https://github.com/nktkt/epicshelter",
+      "heartbeat-readboard was created as a Heartbeat Readboard v1.3 release spanning CLI, TUI, and web interfaces with OSINT integration. Repo: https://github.com/nktkt/heartbeat-readboard",
+      "nktkt (profile repository) was updated to reflect the latest projects and to add the Series #4 note so public navigation stayed synchronized with current output. Repo: https://github.com/nktkt/nktkt",
+      "Repository links: https://github.com/nktkt/privatova https://github.com/nktkt/epicshelter https://github.com/nktkt/heartbeat-readboard https://github.com/nktkt/nktkt",
+      "The key lesson from this sprint is to pair greenfield launches with immediate hardening and visibility updates so new repos become usable and discoverable on day one.",
+    ],
+  },
+  {
     slug: "github-daily-2026-02-19-series-4",
     title: "GitHub Daily Series #4: Web3 and LLM Build Sprint on February 19",
     summary:
