@@ -10,6 +10,25 @@ export type Post = {
 
 const posts: Post[] = [
   {
+    slug: "github-daily-2026-02-21-series-6",
+    title: "GitHub Daily Series #6: TON Productization Sprint on February 21",
+    summary:
+      "As of 2026-02-21 23:04 JST: 4 active repositories, 8 commits, and 37,308 added lines across TON apps and contracts.",
+    publishedAt: "2026-02-21",
+    readTimeMinutes: 6,
+    tags: ["github", "daily-log", "series", "ton", "web3", "frontend"],
+    content: [
+      "This is episode 6 of the GitHub daily series, covering work on February 21, 2026 (JST), with data captured at 23:04 JST.",
+      "Today snapshot so far: 4 repositories updated, 8 commits, +37308 / -46 lines changed, with no new issues, pull requests, or review events.",
+      "FreedomWall moved from initial release to production hardening in four commits: base launch, manifest fixes, frontend production fixes (including Buffer polyfill and network safety), and declaration-flow reliability improvements. Repo: https://github.com/nktkt/FreedomWall",
+      "ton-pay launched with an initial implementation of a TON Pay Telegram Mini App, establishing a separate payment-oriented product line. Repo: https://github.com/nktkt/ton-pay",
+      "ton-voting-contract was created with an initial TON voting smart contract and accompanying web frontend, adding governance tooling to today's TON stack. Repo: https://github.com/nktkt/ton-voting-contract",
+      "nktkt (profile repository) received two commits to publish Series #5 and update the README with newly launched TON projects so public navigation stayed synchronized. Repo: https://github.com/nktkt/nktkt",
+      "Repository links: https://github.com/nktkt/FreedomWall https://github.com/nktkt/ton-pay https://github.com/nktkt/ton-voting-contract https://github.com/nktkt/nktkt",
+      "The key lesson from this sprint is to pair new repo launches with same-day production hardening and profile updates, so experiments become usable products without losing discoverability.",
+    ],
+  },
+  {
     slug: "github-daily-2026-02-20-series-5",
     title: "GitHub Daily Series #5: Sovereign AI and Resilience Sprint on February 20",
     summary:
