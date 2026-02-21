@@ -39,6 +39,9 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🏚️ **[epicshelter](https://github.com/nktkt/epicshelter)** - Distributed global backup and disaster recovery system with zero-knowledge encryption
 - 📡 **[heartbeat-readboard](https://github.com/nktkt/heartbeat-readboard)** - Personalized intelligence readboard with real-time OSINT feed integration (CLI/TUI/Web)
 - 🕶️ **[privatova](https://github.com/nktkt/privatova)** - Sovereign private AI agent with local LLM inference, ZK-proven reasoning, and Tor-routed networking
+- 🧾 **[FreedomWall](https://github.com/nktkt/FreedomWall)** - A censorship-resistant declaration board on the TON blockchain
+- 💸 **[ton-pay](https://github.com/nktkt/ton-pay)** - TON blockchain payment app for Telegram Mini Apps
+- 🗳️ **[ton-voting-contract](https://github.com/nktkt/ton-voting-contract)** - Decentralized voting system on TON blockchain with Tact smart contract and Next.js frontend
 
 ## GitHub Activity（Public）
 
@@ -53,6 +56,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #5: Sovereign AI and Resilience Sprint on February 20](https://nktkt.com/blog/github-daily-2026-02-20-series-5/)
 - [GitHub Daily Series #4: Web3 and LLM Build Sprint on February 19](https://nktkt.com/blog/github-daily-2026-02-19-series-4/)
 - [GitHub Daily Series #3: Rust Automaton Sprint on February 18](https://nktkt.com/blog/github-daily-2026-02-18-series-3/)
 - [GitHub Daily Series #2: Security Tools, Profile Repo, and Refactors](https://nktkt.com/blog/github-daily-2026-02-17-series-2/)
