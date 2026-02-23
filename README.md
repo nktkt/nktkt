@@ -46,6 +46,11 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🟡 **[bnb-pay](https://github.com/nktkt/bnb-pay)** - Payment app prototype for BNB Chain
 - 💠 **[eth-pay](https://github.com/nktkt/eth-pay)** - Payment app prototype for Ethereum
 - 🔷 **[tezos-pay](https://github.com/nktkt/tezos-pay)** - Payment app prototype for Tezos
+- ⛓️ **[soneium-pay](https://github.com/nktkt/soneium-pay)** - Payment application on Soneium L2 (Sony's Ethereum Layer 2)
+- ₿ **[bitcoin-pay](https://github.com/nktkt/bitcoin-pay)** - Bitcoin payment app with HD wallet, send/receive, QR codes, and testnet support
+- 🔺 **[tron-pay](https://github.com/nktkt/tron-pay)** - TRON blockchain payment app for TRX/USDT with QR requests and transaction history
+- 🐕 **[dogecoin-payment-toolkit](https://github.com/nktkt/dogecoin-payment-toolkit)** - Python toolkit for Dogecoin payment operations, transaction signing, and RPC access
+- 🅿️ **[paypal-payment-app](https://github.com/nktkt/paypal-payment-app)** - PayPal Standard Checkout payment app with Node.js/Express
 
 ## GitHub Activity（Public）
 
@@ -60,6 +65,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #7: Multi-Chain Payment App Sprint on February 22](https://nktkt.com/blog/github-daily-2026-02-22-series-7/)
+- [Megaminx Solving Method (From My Handwritten Notes)](https://nktkt.com/blog/megaminx-solving-method-handwritten-notes/)
 - [GitHub Daily Series #6: TON Productization Sprint on February 21](https://nktkt.com/blog/github-daily-2026-02-21-series-6/)
 - [GitHub Daily Series #5: Sovereign AI and Resilience Sprint on February 20](https://nktkt.com/blog/github-daily-2026-02-20-series-5/)
 - [GitHub Daily Series #4: Web3 and LLM Build Sprint on February 19](https://nktkt.com/blog/github-daily-2026-02-19-series-4/)
