@@ -51,6 +51,11 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🔺 **[tron-pay](https://github.com/nktkt/tron-pay)** - TRON blockchain payment app for TRX/USDT with QR requests and transaction history
 - 🐕 **[dogecoin-payment-toolkit](https://github.com/nktkt/dogecoin-payment-toolkit)** - Python toolkit for Dogecoin payment operations, transaction signing, and RPC access
 - 🅿️ **[paypal-payment-app](https://github.com/nktkt/paypal-payment-app)** - PayPal Standard Checkout payment app with Node.js/Express
+- 🕳️ **[blackhole-viz](https://github.com/nktkt/blackhole-viz)** - Real-time Schwarzschild black hole visualization with gravitational lensing and accretion disk
+- 🛩️ **[pengforge](https://github.com/nktkt/pengforge)** - Rust cargo workspace for autonomous quadrotor drone development (embedded, sim, CV/ML, GCS, swarm)
+- 🔌 **[drone-circuit-usb-pd-power](https://github.com/nktkt/drone-circuit-usb-pd-power)** - USB-C PD power supply circuit design for drones (Python to KiCad via circuit-synth)
+- 🚁 **[peng-quad-custom](https://github.com/nktkt/peng-quad-custom)** - Quadrotor PID simulation with hot-reload, wind disturbance, and 3D visualization
+- 🎮 **[drone-flight-controller](https://github.com/nktkt/drone-flight-controller)** - PID-stabilized quadcopter flight controller with physics simulation (Arduino Pro Mini + MPU6050)
 
 ## GitHub Activity（Public）
 
@@ -65,6 +70,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #8: Multi-Chain Payment Expansion on February 23](https://nktkt.com/blog/github-daily-2026-02-23-series-8/)
 - [GitHub Daily Series #7: Multi-Chain Payment App Sprint on February 22](https://nktkt.com/blog/github-daily-2026-02-22-series-7/)
 - [Megaminx Solving Method (From My Handwritten Notes)](https://nktkt.com/blog/megaminx-solving-method-handwritten-notes/)
 - [GitHub Daily Series #6: TON Productization Sprint on February 21](https://nktkt.com/blog/github-daily-2026-02-21-series-6/)
