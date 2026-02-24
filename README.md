@@ -60,6 +60,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🎵 **[chiptune-hdl](https://github.com/nktkt/chiptune-hdl)** - 3-channel chiptune sound generator in rust-hdl (AY-3-8910 / SID inspired)
 - 🔐 **[crypto-circuits](https://github.com/nktkt/crypto-circuits)** - AES-128 and SHA-256 synthesizable circuits in rust-hdl
 - 🧮 **[systolic-array](https://github.com/nktkt/systolic-array)** - 4x4 output-stationary systolic array for matrix multiplication in rust-hdl
+- 🧠 **[glm-rust](https://github.com/nktkt/glm-rust)** - Full Rust implementation of GLM (General Language Model) using tch-rs (LibTorch bindings)
+- 🔎 **[deepseek-v3-rust](https://github.com/nktkt/deepseek-v3-rust)** - DeepSeek-V3 inference engine in Rust with 100% Python parity port
 
 ## GitHub Activity（Public）
 
@@ -74,6 +76,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #10: Rust-HDL and Accelerator Sprint on February 23 (Third Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-10/)
 - [GitHub Daily Series #9: Drone and Hardware Build Sprint on February 23 (Second Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-9/)
 - [GitHub Daily Series #8: Multi-Chain Payment Expansion on February 23](https://nktkt.com/blog/github-daily-2026-02-23-series-8/)
 - [GitHub Daily Series #7: Multi-Chain Payment App Sprint on February 22](https://nktkt.com/blog/github-daily-2026-02-22-series-7/)
