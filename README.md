@@ -62,6 +62,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🧮 **[systolic-array](https://github.com/nktkt/systolic-array)** - 4x4 output-stationary systolic array for matrix multiplication in rust-hdl
 - 🧠 **[glm-rust](https://github.com/nktkt/glm-rust)** - Full Rust implementation of GLM (General Language Model) using tch-rs (LibTorch bindings)
 - 🔎 **[deepseek-v3-rust](https://github.com/nktkt/deepseek-v3-rust)** - DeepSeek-V3 inference engine in Rust with 100% Python parity port
+- 🗂️ **[3fs-rs](https://github.com/nktkt/3fs-rs)** - Rust rewrite of DeepSeek's 3FS (Fire-Flyer File System) for high-performance distributed AI training storage
+- 🧪 **[slime-rs](https://github.com/nktkt/slime-rs)** - Rust rewrite of THUDM/slime, a high-performance LLM post-training framework for RL scaling
 
 ## GitHub Activity（Public）
 
@@ -76,6 +78,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #11: GLM Rust Port Completion and DeepSeek-V3 Rust Start on February 24](https://nktkt.com/blog/github-daily-2026-02-24-series-11/)
 - [GitHub Daily Series #10: Rust-HDL and Accelerator Sprint on February 23 (Third Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-10/)
 - [GitHub Daily Series #9: Drone and Hardware Build Sprint on February 23 (Second Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-9/)
 - [GitHub Daily Series #8: Multi-Chain Payment Expansion on February 23](https://nktkt.com/blog/github-daily-2026-02-23-series-8/)
