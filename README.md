@@ -64,6 +64,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🔎 **[deepseek-v3-rust](https://github.com/nktkt/deepseek-v3-rust)** - DeepSeek-V3 inference engine in Rust with 100% Python parity port
 - 🗂️ **[3fs-rs](https://github.com/nktkt/3fs-rs)** - Rust rewrite of DeepSeek's 3FS (Fire-Flyer File System) for high-performance distributed AI training storage
 - 🧪 **[slime-rs](https://github.com/nktkt/slime-rs)** - Rust rewrite of THUDM/slime, a high-performance LLM post-training framework for RL scaling
+- 🧠 **[alexnet-rust](https://github.com/nktkt/alexnet-rust)** - AlexNet (Krizhevsky et al., NeurIPS 2012) implemented from scratch in pure Rust
+- ⛽ **[geth-rpc-client](https://github.com/nktkt/geth-rpc-client)** - Type-safe Ethereum JSON-RPC client library for Geth nodes
 
 ## GitHub Activity（Public）
 
@@ -78,6 +80,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #12: Rust Rewrite Sprint for 3FS and SLIME on February 25](https://nktkt.com/blog/github-daily-2026-02-25-series-12/)
 - [GitHub Daily Series #11: GLM Rust Port Completion and DeepSeek-V3 Rust Start on February 24](https://nktkt.com/blog/github-daily-2026-02-24-series-11/)
 - [GitHub Daily Series #10: Rust-HDL and Accelerator Sprint on February 23 (Third Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-10/)
 - [GitHub Daily Series #9: Drone and Hardware Build Sprint on February 23 (Second Wave)](https://nktkt.com/blog/github-daily-2026-02-23-series-9/)
