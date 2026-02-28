@@ -66,6 +66,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🧪 **[slime-rs](https://github.com/nktkt/slime-rs)** - Rust rewrite of THUDM/slime, a high-performance LLM post-training framework for RL scaling
 - 🧠 **[alexnet-rust](https://github.com/nktkt/alexnet-rust)** - AlexNet (Krizhevsky et al., NeurIPS 2012) implemented from scratch in pure Rust
 - ⛽ **[geth-rpc-client](https://github.com/nktkt/geth-rpc-client)** - Type-safe Ethereum JSON-RPC client library for Geth nodes
+- 📚 **[dotjava](https://github.com/nktkt/dotjava)** - Comprehensive Java learning reference site (Java 8-24) built with Next.js, shadcn/ui, and DADS design system
 - 📜 **[pallet-poe](https://github.com/nktkt/pallet-poe)** - FRAME pallet for Proof of Existence to store document hashes on-chain (Polkadot SDK)
 - 🎧 **[music-streaming-api](https://github.com/nktkt/music-streaming-api)** - Music streaming REST API defined with Palantir Conjure (aliases, enums, unions, structured errors)
 - ☕ **[javapoet-demo](https://github.com/nktkt/javapoet-demo)** - JavaPoet demo generating a Task Management System to showcase enum/class/interface/builder code generation
