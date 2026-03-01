@@ -5,10 +5,11 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Lean](https://img.shields.io/badge/-Lean-0F5CAA?style=flat-square&logo=leanpub&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-121212?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Security](https://img.shields.io/badge/-Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white)
-![Starknet](https://img.shields.io/badge/-Starknet-5C4EE5?style=flat-square&logo=starknet&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
 > Build quietly, ship often.
 
