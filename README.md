@@ -70,7 +70,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 📜 **[pallet-poe](https://github.com/nktkt/pallet-poe)** - FRAME pallet for Proof of Existence to store document hashes on-chain (Polkadot SDK)
 - 🎧 **[music-streaming-api](https://github.com/nktkt/music-streaming-api)** - Music streaming REST API defined with Palantir Conjure (aliases, enums, unions, structured errors)
 - ☕ **[javapoet-demo](https://github.com/nktkt/javapoet-demo)** - JavaPoet demo generating a Task Management System to showcase enum/class/interface/builder code generation
-
+- 🧾 **[torchlean](https://github.com/nktkt/torchlean)** - TorchLean: Formalizing Neural Networks in Lean 4 — IBP, CROWN, α,β-CROWN verification framework
 ## GitHub Activity（Public）
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
@@ -84,6 +84,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #16: DotJava Expansion and PoE Pallet Launch on February 28](https://nktkt.com/blog/github-daily-2026-02-28-series-16/)
 - [GitHub Daily Series #15: API and Code-Generation Launches on February 27 (Late Snapshot)](https://nktkt.com/blog/github-daily-2026-02-27-series-15/)
 - [GitHub Daily Series #13: Early Snapshot on February 27 (Just After Midnight)](https://nktkt.com/blog/github-daily-2026-02-27-series-13/)
 - [GitHub Daily Series #14: AlexNet Rust, Geth RPC Client, and 3FS/SLIME Progress on February 26 (Backfill)](https://nktkt.com/blog/github-daily-2026-02-26-series-14/)
