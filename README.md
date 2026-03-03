@@ -72,6 +72,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🎧 **[music-streaming-api](https://github.com/nktkt/music-streaming-api)** - Music streaming REST API defined with Palantir Conjure (aliases, enums, unions, structured errors)
 - ☕ **[javapoet-demo](https://github.com/nktkt/javapoet-demo)** - JavaPoet demo generating a Task Management System to showcase enum/class/interface/builder code generation
 - 🧾 **[torchlean](https://github.com/nktkt/torchlean)** - TorchLean: Formalizing Neural Networks in Lean 4 — IBP, CROWN, α,β-CROWN verification framework
+- 🍎 **[ane-rust](https://github.com/nktkt/ane-rust)** - Training neural networks on Apple Neural Engine — Rust implementation
+- 💳 **[cardnet-iso8583-simulator](https://github.com/nktkt/cardnet-iso8583-simulator)** - CARDNET ISO 8583 message simulator built with jPOS for authorization/reversal testing
 ## GitHub Activity（Public）
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
@@ -85,6 +87,8 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #18: Economic Portal Features, Java Security, and Analyst Reports on March 2](https://nktkt.com/blog/github-daily-2026-03-02-series-18/)
+- [GitHub Daily Series #17: TorchLean Launch and Multi-Site Content Sprint on March 1](https://nktkt.com/blog/github-daily-2026-03-01-series-17/)
 - [GitHub Daily Series #16: DotJava Expansion and PoE Pallet Launch on February 28](https://nktkt.com/blog/github-daily-2026-02-28-series-16/)
 - [GitHub Daily Series #15: API and Code-Generation Launches on February 27 (Late Snapshot)](https://nktkt.com/blog/github-daily-2026-02-27-series-15/)
 - [GitHub Daily Series #13: Early Snapshot on February 27 (Just After Midnight)](https://nktkt.com/blog/github-daily-2026-02-27-series-13/)
