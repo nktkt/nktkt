@@ -50,7 +50,6 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 📜 **[pallet-poe](https://github.com/nktkt/pallet-poe)** - FRAME pallet for Proof of Existence to store document hashes on-chain (Polkadot SDK)
 - ☕ **[javapoet-demo](https://github.com/nktkt/javapoet-demo)** - JavaPoet demo generating a Task Management System to showcase enum/class/interface/builder code generation
 - 🧾 **[torchlean](https://github.com/nktkt/torchlean)** - TorchLean: Formalizing Neural Networks in Lean 4 — IBP, CROWN, α,β-CROWN verification framework
-- 🍎 **[ane-rust](https://github.com/nktkt/ane-rust)** - Training neural networks on Apple Neural Engine — Rust implementation
 - 💳 **[cardnet-iso8583-simulator](https://github.com/nktkt/cardnet-iso8583-simulator)** - CARDNET ISO 8583 message simulator built with jPOS for authorization/reversal testing
 - 📘 **[MOS-Excel-365](https://github.com/nktkt/MOS-Excel-365)** - MOS Excel 365 exam prep workbook (60 knowledge questions + 26 practical tasks)
 - 💳 **[gmo-pg-payment-demo](https://github.com/nktkt/gmo-pg-payment-demo)** - GMO-PG credit card payment demo app (Spring Boot 3.4) with AUTH/SALES/VOID/RETURN flow
