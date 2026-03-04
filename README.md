@@ -74,6 +74,11 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🧾 **[torchlean](https://github.com/nktkt/torchlean)** - TorchLean: Formalizing Neural Networks in Lean 4 — IBP, CROWN, α,β-CROWN verification framework
 - 🍎 **[ane-rust](https://github.com/nktkt/ane-rust)** - Training neural networks on Apple Neural Engine — Rust implementation
 - 💳 **[cardnet-iso8583-simulator](https://github.com/nktkt/cardnet-iso8583-simulator)** - CARDNET ISO 8583 message simulator built with jPOS for authorization/reversal testing
+- 📘 **[MOS-Excel-365](https://github.com/nktkt/MOS-Excel-365)** - MOS Excel 365 exam prep workbook (60 knowledge questions + 26 practical tasks)
+- 💳 **[gmo-pg-payment-demo](https://github.com/nktkt/gmo-pg-payment-demo)** - GMO-PG credit card payment demo app (Spring Boot 3.4) with AUTH/SALES/VOID/RETURN flow
+- 🦀 **[cardnet-iso8583-simulator-rust](https://github.com/nktkt/cardnet-iso8583-simulator-rust)** - CARDNET ISO 8583 payment simulator in Rust with BCD codec and mock acquirer/terminal
+- 🧩 **[iso8583-parser](https://github.com/nktkt/iso8583-parser)** - Zero-dependency ISO 8583 parser in pure Java 21 (BCD, bitmap, LLVAR/LLLVAR, TCP transport)
+- 🛡️ **[3ds-payment-demo](https://github.com/nktkt/3ds-payment-demo)** - 3D Secure 2.x (EMV 3DS) payment demo with mock 3DS Server, DS, and ACS
 ## GitHub Activity（Public）
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
@@ -87,6 +92,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #19: ANE Training in Rust, ISO 8583 Simulator, and DOGE-Style Analytics on March 3](https://nktkt.com/blog/github-daily-2026-03-03-series-19/)
 - [GitHub Daily Series #18: Economic Portal Features, Java Security, and Analyst Reports on March 2](https://nktkt.com/blog/github-daily-2026-03-02-series-18/)
 - [GitHub Daily Series #17: TorchLean Launch and Multi-Site Content Sprint on March 1](https://nktkt.com/blog/github-daily-2026-03-01-series-17/)
 - [GitHub Daily Series #16: DotJava Expansion and PoE Pallet Launch on February 28](https://nktkt.com/blog/github-daily-2026-02-28-series-16/)
