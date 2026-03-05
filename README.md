@@ -56,6 +56,12 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🦀 **[cardnet-iso8583-simulator-rust](https://github.com/nktkt/cardnet-iso8583-simulator-rust)** - CARDNET ISO 8583 payment simulator in Rust with BCD codec and mock acquirer/terminal
 - 🧩 **[iso8583-parser](https://github.com/nktkt/iso8583-parser)** - Zero-dependency ISO 8583 parser in pure Java 21 (BCD, bitmap, LLVAR/LLLVAR, TCP transport)
 - 🛡️ **[3ds-payment-demo](https://github.com/nktkt/3ds-payment-demo)** - 3D Secure 2.x (EMV 3DS) payment demo with mock 3DS Server, DS, and ACS
+- 🔑 **[pan-tokenizer](https://github.com/nktkt/pan-tokenizer)** - PAN tokenization/detokenization gRPC microservice in Rust
+- 🏦 **[cardnet-gateway](https://github.com/nktkt/cardnet-gateway)** - CARDNET ISO 8583 Multiplexing Gateway (Spring Boot 3.4 + WebFlux + Java 21)
+- 💰 **[payment-system-mock](https://github.com/nktkt/payment-system-mock)** - Full-stack payment system mock with ISO 8583 TCP + HTTP/JSON dual protocol and 3D Secure
+- 🏧 **[gmo-pg-payment-gateway](https://github.com/nktkt/gmo-pg-payment-gateway)** - Production-ready payment gateway demo with GMO-PG Token Payment v2, 3D Secure 2.0, JCB support
+- 📱 **[jcb-contactless-sim](https://github.com/nktkt/jcb-contactless-sim)** - JCB Contactless / QUICPay payment simulator with Android HCE and Java Spring Boot backend
+- 🦀 **[card-payment-gateway](https://github.com/nktkt/card-payment-gateway)** - Production-grade multi-provider payment gateway in Rust (Stripe, PAY.JP, PayPay, GMO PG, SBPS)
 ## GitHub Activity（Public）
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
@@ -69,6 +75,7 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Latest Notes
 
+- [GitHub Daily Series #20: Payment Infrastructure Sprint and ISO 8583 Tooling on March 4](https://nktkt.com/blog/github-daily-2026-03-04-series-20/)
 - [GitHub Daily Series #19: ANE Training in Rust, ISO 8583 Simulator, and DOGE-Style Analytics on March 3](https://nktkt.com/blog/github-daily-2026-03-03-series-19/)
 - [GitHub Daily Series #18: Economic Portal Features, Java Security, and Analyst Reports on March 2](https://nktkt.com/blog/github-daily-2026-03-02-series-18/)
 - [GitHub Daily Series #17: TorchLean Launch and Multi-Site Content Sprint on March 1](https://nktkt.com/blog/github-daily-2026-03-01-series-17/)
