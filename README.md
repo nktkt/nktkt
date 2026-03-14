@@ -1,20 +1,23 @@
-# Hi, I'm Naoki Takata 👋
+## 👋 Hi, I'm Naoki Takata
 
-🇯🇵 **Japan** | 🧪 **Shipping practical experiments** | ✍️ **[nktkt.com](https://nktkt.com)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-2B6CB0?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-A0522D?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-B8651A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lean-4C3FA0?style=for-the-badge&logo=leanpub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLI-1E293B?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-9B1B30?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-D45B07?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Payment-2E7D32?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HDL-5B4FA0?style=for-the-badge&logo=xilinx&logoColor=white"/>
+</p>
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Lean](https://img.shields.io/badge/-Lean-0F5CAA?style=flat-square&logo=leanpub&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-121212?style=flat-square&logo=gnu-bash&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+My primary languages are Go, Rust, TypeScript, and Java. I focus on payment infrastructure, security tooling, AI/LLM systems, hardware design (rust-hdl), and Web3 applications. I build CLI-first tools and ship practical experiments at a daily cadence.
+
+Based in Japan. Scored 590/590 (7th place) at the [Ministry of Defense Cyber Contest 2026](https://nktkt.com/blog/cyber-contest-2026/). Writing short notes at [nktkt.com](https://nktkt.com).
 
 > Build quietly, ship often.
-
-I write short, practical notes about product work, frontend craft, and shipping software.<br />
-Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Place](https://nktkt.com/blog/cyber-contest-2026/)
 
 ## Current Projects
 
@@ -62,16 +65,65 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 - 🏧 **[gmo-pg-payment-gateway](https://github.com/nktkt/gmo-pg-payment-gateway)** - Production-ready payment gateway demo with GMO-PG Token Payment v2, 3D Secure 2.0, JCB support
 - 📱 **[jcb-contactless-sim](https://github.com/nktkt/jcb-contactless-sim)** - JCB Contactless / QUICPay payment simulator with Android HCE and Java Spring Boot backend
 - 🦀 **[card-payment-gateway](https://github.com/nktkt/card-payment-gateway)** - Production-grade multi-provider payment gateway in Rust (Stripe, PAY.JP, PayPay, GMO PG, SBPS)
-## GitHub Activity（Public）
+- 📱 **[nextfacemash-ios](https://github.com/nktkt/nextfacemash-ios)** - iOS version of nextfacemash rating app
+- 🎯 **[nextfacemash](https://github.com/nktkt/nextfacemash)** - Facemash-style rating app
+- 💬 **[anochan](https://github.com/nktkt/anochan)** - Anonymous imageboard on Cloudflare Workers
+- 🧠 **[ane-rust](https://github.com/nktkt/ane-rust)** - Training neural networks on Apple Neural Engine in Rust
+- 🍬 **[candy-zk](https://github.com/nktkt/candy-zk)** - Zero-knowledge proof experiments
+- 🌐 **[xenophanes.org](https://github.com/nktkt/xenophanes.org)** - Xenophanes website
+- 🔐 **[crypto-circuits](https://github.com/nktkt/crypto-circuits)** - AES-128 and SHA-256 synthesizable circuits in rust-hdl
+- 💎 **[soneium-pay](https://github.com/nktkt/soneium-pay)** - Payment application on Soneium L2 (Sony's Ethereum Layer 2)
+- ₿ **[bitcoin-pay](https://github.com/nktkt/bitcoin-pay)** - Bitcoin payment app with HD wallet (BIP84 native SegWit, send/receive, QR codes, testnet)
+- ⚡ **[tron-pay](https://github.com/nktkt/tron-pay)** - TRON blockchain payment app (Send TRX/USDT, QR payment requests, transaction history)
+- 🐕 **[dogecoin-payment-toolkit](https://github.com/nktkt/dogecoin-payment-toolkit)** - Python library for Dogecoin payment operations (address generation, transaction building/signing, RPC client)
+- 🌍 **[world-pay](https://github.com/nktkt/world-pay)** - Worldcoin payment app
+- 💰 **[bnb-pay](https://github.com/nktkt/bnb-pay)** - BNB Chain payment app
+- 🪙 **[tezos-pay](https://github.com/nktkt/tezos-pay)** - Tezos payment app
+- 💠 **[eth-pay](https://github.com/nktkt/eth-pay)** - Ethereum payment app
+- 📲 **[ton-pay](https://github.com/nktkt/ton-pay)** - TON blockchain payment app for Telegram Mini Apps
+- 🗳️ **[ton-voting-contract](https://github.com/nktkt/ton-voting-contract)** - Decentralized voting system on TON Blockchain (Tact smart contract + Next.js frontend)
+- 🗽 **[FreedomWall](https://github.com/nktkt/FreedomWall)** - Censorship-resistant declaration board on the TON blockchain
+- 📊 **[solomeo-org](https://github.com/nktkt/solomeo-org)** - Official-source Japanese prefectural economic data portal (Next.js + Cloudflare Workers)
+- 🛡️ **[epicshelter](https://github.com/nktkt/epicshelter)** - Distributed Global Backup & Disaster Recovery System with ZK encryption and multi-site architecture
+- ☀️ **[solana-token-manager](https://github.com/nktkt/solana-token-manager)** - Solana SPL Token Manager DApp (Anchor + React/Vite)
+- 🪙 **[erc20-cli](https://github.com/nktkt/erc20-cli)** - Security-hardened ERC-20 Token CLI built in Rust with Alloy
+- 🪙 **[erc20-dapp](https://github.com/nktkt/erc20-dapp)** - ERC-20 token DApp with Ownable2Step, supply cap, and input validation
+- 🐍 **[venom](https://github.com/nktkt/venom)** - Security framework with module reference
+- 🔍 **[goscan](https://github.com/nktkt/goscan)** - Go network scanner with nmap-compatible CLI and interactive TUI dashboard
+- 🧅 **[tor-app](https://github.com/nktkt/tor-app)** - Tor .onion static HTML server CLI in Go
+- 🗳️ **[private-voting-dapp](https://github.com/nktkt/private-voting-dapp)** - Privacy-preserving voting dApp on Starknet with commit-reveal scheme (Scaffold-Stark 2 + Cairo + Next.js)
+- 🏥 **[japanhospitals](https://github.com/nktkt/japanhospitals)** - Japan hospitals data app
+- 💻 **[macrohard-2](https://github.com/nktkt/macrohard-2)** - Macrohard v2
+- 💓 **[chrominance-rppg](https://github.com/nktkt/chrominance-rppg)** - Rust implementation of chrominance-based rPPG algorithms (de Haan & Jeanne, IEEE TBME 2013)
+- 💓 **[rppg-webcam-poh2011](https://github.com/nktkt/rppg-webcam-poh2011)** - Rust rPPG implementation (Poh et al., 2011) — noncontact physiological measurements via ICA
+- 💓 **[rppg-simulator](https://github.com/nktkt/rppg-simulator)** - rPPG Signal Simulator based on Verkruysse et al. (2008) in Rust
+- 🔓 **[shannon](https://github.com/nktkt/shannon)** - AI-powered penetration testing framework
+- 🌌 **[kardashev](https://github.com/nktkt/kardashev)** - Kardashev scale project
+- 🔧 **[k2merge](https://github.com/nktkt/k2merge)** - K2 merge tool
+- ⚙️ **[machine](https://github.com/nktkt/machine)** - Machine project
+- 📈 **[polyfi](https://github.com/nktkt/polyfi)** - Polyfi DeFi project
+- 💬 **[amitouma-chat](https://github.com/nktkt/amitouma-chat)** - あみちゃん — Artificial Meme Intelligence AI chatbot
+- 📖 **[aristotle](https://github.com/nktkt/aristotle)** - Aristotle project
+- 📖 **[aristotle-putnam-proj1](https://github.com/nktkt/aristotle-putnam-proj1)** - Aristotle Putnam Project 1
+- 📐 **[lean-project](https://github.com/nktkt/lean-project)** - Lean 4 project
+- 🦇 **[BatRoot](https://github.com/nktkt/BatRoot)** - BatRoot project
+- 🏃 **[physint](https://github.com/nktkt/physint)** - Physical intelligence project
+- 📚 **[arxivium](https://github.com/nktkt/arxivium)** - arXiv paper manager
+- ☁️ **[cloudflare-takatamacro](https://github.com/nktkt/cloudflare-takatamacro)** - Cloudflare deployment of TakataMacro
+- 📊 **[TakataMacro](https://github.com/nktkt/TakataMacro)** - Macro economics site/tool
+- ☕ **[ToDoList-java](https://github.com/nktkt/ToDoList-java)** - Java ToDo List application
+- 🔎 **[osint-java-cli](https://github.com/nktkt/osint-java-cli)** - OSINT CLI tool in Java
+- 📊 **[jpx](https://github.com/nktkt/jpx)** - JPX (Japan Exchange Group) data project
+- 📊 **[jpop](https://github.com/nktkt/jpop)** - Japan population data project
+- 📊 **[jpopx2](https://github.com/nktkt/jpopx2)** - Japan population data project v2
+- 🌌 **[KardashevArchive](https://github.com/nktkt/KardashevArchive)** - Kardashev Archive
+- 🔍 **[crimescope](https://github.com/nktkt/crimescope)** - Crime data analysis tool
+- 🎵 **[music-streaming-api](https://github.com/nktkt/music-streaming-api)** - Music streaming REST API defined with Palantir Conjure
+- 💎 **[geth-rpc-client](https://github.com/nktkt/geth-rpc-client)** - Type-safe Ethereum JSON-RPC client library for Geth nodes
+
+## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/nktkt)
-
-## What I'm Doing
-
-- Building CLI-first tools in Go and TypeScript
-- Exploring privacy and security workflows
-- Prototyping crypto/ZK ideas on Starknet and Rust
-- Writing short notes at [nktkt.com](https://nktkt.com)
 
 ## Latest Notes
 
@@ -101,7 +153,9 @@ Featured note: [Ministry of Defense Cyber Contest 2026: Perfect Score and 7th Pl
 
 ## Connect
 
-[![X](https://img.shields.io/badge/-@naokitakata-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/naokitakata)
-[![Blog](https://img.shields.io/badge/-nktkt.com-222222?style=flat-square&logo=nextdotjs&logoColor=white)](https://nktkt.com)
-[![Email](https://img.shields.io/badge/-ntakata%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:ntakata@proton.me)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nktkt)
+<p align="left">
+  <a href="https://x.com/naokitakata"><img src="https://img.shields.io/badge/@naokitakata-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://nktkt.com"><img src="https://img.shields.io/badge/nktkt.com-1A1A2E?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="mailto:ntakata@proton.me"><img src="https://img.shields.io/badge/ntakata@proton.me-5B3FA0?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://github.com/nktkt"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
