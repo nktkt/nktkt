@@ -15,7 +15,7 @@
 
 My primary languages are Go, Rust, TypeScript, and Java. I focus on payment infrastructure, security tooling, AI/LLM systems, hardware design (rust-hdl), and Web3 applications. I build CLI-first tools and ship practical experiments at a daily cadence.
 
-Based in Japan. Scored 590/590 (7th place) at the [Ministry of Defense Cyber Contest 2026](https://nktkt.com/blog/cyber-contest-2026/). Writing short notes at [nktkt.com](https://nktkt.com).
+Based in Japan. Scored 590/590 (7th place) at the [Ministry of Defense Cyber Contest 2026](https://naokitakata.com/blog/cyber-contest-2026/). Writing short notes at [naokitakata.com](https://naokitakata.com).
 
 > Build quietly, ship often.
 
@@ -23,7 +23,7 @@ Based in Japan. Scored 590/590 (7th place) at the [Ministry of Defense Cyber Con
 
 <p align="left">
   <a href="https://x.com/naokitakata"><img src="https://img.shields.io/badge/@naokitakata-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://nktkt.com"><img src="https://img.shields.io/badge/nktkt.com-1A1A2E?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a href="https://naokitakata.com"><img src="https://img.shields.io/badge/naokitakata.com-1A1A2E?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
   <a href="mailto:ntakata@proton.me"><img src="https://img.shields.io/badge/ntakata@proton.me-5B3FA0?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <a href="https://github.com/nktkt"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
